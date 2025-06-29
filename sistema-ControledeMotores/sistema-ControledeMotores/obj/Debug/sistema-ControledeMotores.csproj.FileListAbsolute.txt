@@ -1,0 +1,8 @@
+C:\Users\Ana_R\Downloads\Federal\sistema-ControledeMotores\sistema-ControledeMotores\obj\Debug\sistema-ControledeMotores.csproj.AssemblyReference.cache
+C:\Users\Ana_R\Downloads\Federal\sistema-ControledeMotores\sistema-ControledeMotores\obj\Debug\sistema-ControledeMotores.csproj.CoreCompileInputs.cache
+C:\Users\Ana_R\Downloads\Federal\sistema-ControledeMotores\sistema-ControledeMotores\bin\Debug\sistema-ControledeMotores.exe.config
+C:\Users\Ana_R\Downloads\Federal\sistema-ControledeMotores\sistema-ControledeMotores\bin\Debug\sistema-ControledeMotores.exe
+C:\Users\Ana_R\Downloads\Federal\sistema-ControledeMotores\sistema-ControledeMotores\bin\Debug\sistema-ControledeMotores.pdb
+C:\Users\Ana_R\Downloads\Federal\sistema-ControledeMotores\sistema-ControledeMotores\obj\Debug\sistema-ControledeMotores.exe
+C:\Users\Ana_R\Downloads\Federal\sistema-ControledeMotores\sistema-ControledeMotores\obj\Debug\sistema-ControledeMotores.pdb
+C:\Users\Ana_R\Downloads\Federal\sistema-ControledeMotores\sistema-ControledeMotores\obj\Debug\sistema-ControledeMotores.exe.config
